@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Simple Top Up App</string>
+    <string name="title_activity_top_up">TopUpActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_pulsa">Pulsa</string>
+    <string name="title_data_pck">Data Package</string>
+    <string name="mobile_no">Mobile Number</string>
+    <string name="promos">Promos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
