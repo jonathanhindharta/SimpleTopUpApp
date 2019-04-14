@@ -8,7 +8,14 @@
     <string name="title_data_pck">Data Package</string>
     <string name="mobile_no">Mobile Number</string>
     <string name="promos">Promos</string>
-
+    <string name="sure_to_quit">Are You Sure Want To Exit ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="top_up">Top Up</string>
+    <string name="nominal">Nominal:</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_top_ups">TopUpsActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
 </resources>

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimary">#009eed</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="colorActionBar">#009eed</color>
+    <color name="colorTabActive">#ff7c2e</color>
+    <color name="colorTabInactive">#cccccc</color>
+    <color name="White">#FFFFFF</color>
 </resources>
