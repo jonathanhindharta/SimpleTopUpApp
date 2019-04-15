@@ -169,7 +169,7 @@ public class PulsaFragment extends Fragment {
             @Override
             public void afterTextChanged(Editable s) {}
 
-            
+
             @Override
             public void beforeTextChanged(CharSequence s, int start,
                                           int count, int after) {

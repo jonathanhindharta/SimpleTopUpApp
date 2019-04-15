@@ -55,4 +55,10 @@ public class CustomListPulsa  extends ArrayAdapter<String>{
 
 
     }
+
+
+    @Override
+    public int getCount(){
+        return nominal.length;
+    }
 }
