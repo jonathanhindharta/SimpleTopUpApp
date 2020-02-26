@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".activity.PromoActivity"></activity>
+        <activity android:name=".activity.LoanConfirmationActivity"></activity>
+        <activity android:name=".activity.PromoActivity" />
         <activity
             android:name=".activity.TopUpActivity"
             android:label="@string/title_activity_top_up"
